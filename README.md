@@ -16,13 +16,13 @@ This is a simple todo-app that allows a user to create, update, and delete a tod
 - UpdateTodoItem function
 
 ## HOW TO RUN THE APPLICATION
-* **Backend**
+### Backend
 To deploy an application run the following commands:
 `cd backend
 npm install
 sls deploy -v`
 
-* **Frontend**
+### Frontend
 To run the Front end:
 
 `cd client
