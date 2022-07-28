@@ -18,7 +18,7 @@ This is a simple todo-app that allows a user to create, update, and delete a tod
 ## HOW TO RUN THE APPLICATION
 ### Backend
 To deploy an application run the following commands:
-`cd backend
+`cd backend\n
 npm install
 sls deploy -v`
 
