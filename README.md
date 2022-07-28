@@ -18,14 +18,14 @@ This is a simple todo-app that allows a user to create, update, and delete a tod
 ## HOW TO RUN THE APPLICATION
 ### Backend
 To deploy an application run the following commands:
-`cd backend`
-`npm install`
-`sls deploy -v`
+-`cd backend`
+-`npm install`
+-`sls deploy -v`
 
 ### Frontend
 To run the Front end:
 
-`cd client`
-`npm install`
-`npm run start`
+-`cd client`
+-`npm install`
+-`npm run start`
 
